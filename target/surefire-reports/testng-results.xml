@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="31417" started-at="2023-03-13T12:46:15 IST" finished-at="2023-03-13T12:46:46 IST">
+  <suite name="Suite" duration-ms="29514" started-at="2023-03-13T13:06:08 IST" finished-at="2023-03-13T13:06:37 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="5749" started-at="2023-03-13T12:46:15 IST" finished-at="2023-03-13T12:46:20 IST">
+    <test name="Test" duration-ms="8778" started-at="2023-03-13T13:06:08 IST" finished-at="2023-03-13T13:06:16 IST">
       <class name="Practice.Flipkart">
-        <test-method status="PASS" signature="fip()[pri:0, instance:Practice.Flipkart@3cb1ffe6]" name="fip" duration-ms="5698" started-at="2023-03-13T12:46:15 IST" finished-at="2023-03-13T12:46:20 IST">
+        <test-method status="PASS" signature="fip()[pri:0, instance:Practice.Flipkart@2a742aa2]" name="fip" duration-ms="8725" started-at="2023-03-13T13:06:08 IST" finished-at="2023-03-13T13:06:16 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fip -->
       </class> <!-- Practice.Flipkart -->
     </test> <!-- Test -->
-    <test name="Test1" duration-ms="25648" started-at="2023-03-13T12:46:20 IST" finished-at="2023-03-13T12:46:46 IST">
+    <test name="Test1" duration-ms="29514" started-at="2023-03-13T13:06:08 IST" finished-at="2023-03-13T13:06:37 IST">
       <class name="Practice.ICCcricket">
-        <test-method status="PASS" signature="cricket()[pri:0, instance:Practice.ICCcricket@87f383f]" name="cricket" duration-ms="25639" started-at="2023-03-13T12:46:20 IST" finished-at="2023-03-13T12:46:46 IST">
+        <test-method status="PASS" signature="cricket()[pri:0, instance:Practice.ICCcricket@6121c9d6]" name="cricket" duration-ms="29468" started-at="2023-03-13T13:06:08 IST" finished-at="2023-03-13T13:06:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cricket -->
