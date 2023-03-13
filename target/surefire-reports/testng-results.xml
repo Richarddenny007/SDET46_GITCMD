@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="29514" started-at="2023-03-13T13:06:08 IST" finished-at="2023-03-13T13:06:37 IST">
+  <suite name="Suite" duration-ms="17644" started-at="2023-03-13T17:22:04 IST" finished-at="2023-03-13T17:22:22 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="8778" started-at="2023-03-13T13:06:08 IST" finished-at="2023-03-13T13:06:16 IST">
+    <test name="Test" duration-ms="15038" started-at="2023-03-13T17:22:04 IST" finished-at="2023-03-13T17:22:19 IST">
       <class name="Practice.Flipkart">
-        <test-method status="PASS" signature="fip()[pri:0, instance:Practice.Flipkart@2a742aa2]" name="fip" duration-ms="8725" started-at="2023-03-13T13:06:08 IST" finished-at="2023-03-13T13:06:16 IST">
+        <test-method status="PASS" signature="fip()[pri:0, instance:Practice.Flipkart@4b553d26]" name="fip" duration-ms="14985" started-at="2023-03-13T17:22:04 IST" finished-at="2023-03-13T17:22:19 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fip -->
       </class> <!-- Practice.Flipkart -->
     </test> <!-- Test -->
-    <test name="Test1" duration-ms="29514" started-at="2023-03-13T13:06:08 IST" finished-at="2023-03-13T13:06:37 IST">
+    <test name="Test1" duration-ms="17644" started-at="2023-03-13T17:22:04 IST" finished-at="2023-03-13T17:22:22 IST">
       <class name="Practice.ICCcricket">
-        <test-method status="PASS" signature="cricket()[pri:0, instance:Practice.ICCcricket@6121c9d6]" name="cricket" duration-ms="29468" started-at="2023-03-13T13:06:08 IST" finished-at="2023-03-13T13:06:37 IST">
+        <test-method status="PASS" signature="cricket()[pri:0, instance:Practice.ICCcricket@77f99a05]" name="cricket" duration-ms="17598" started-at="2023-03-13T17:22:04 IST" finished-at="2023-03-13T17:22:22 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cricket -->

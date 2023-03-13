@@ -107,8 +107,8 @@
         <version>3.0.0-M9</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>src/test/resources/Runner/Parallel.xml</suiteXmlFile>
-               <suiteXmlFile>src/test/resources/Runner/Batch.xml</suiteXmlFile>
+               <suiteXmlFile>src/test/resources/Runner/Parallel.xml</suiteXmlFile>
+               <suiteXmlFile>src/test/resources/Runner/testng.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>

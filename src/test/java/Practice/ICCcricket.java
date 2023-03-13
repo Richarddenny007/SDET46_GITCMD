@@ -8,6 +8,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;
 
 import Generic_Utilities.Generic_methods;
+import Generic_Utilities.SeleniumUtility;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class ICCcricket {
@@ -15,8 +16,9 @@ public class ICCcricket {
 	@Test
 	public static void cricket() throws InterruptedException
 	{
-		WebDriverManager.chromedriver().setup();
-		WebDriver driver=new ChromeDriver();
+		
+		SeleniumUtility sel=new SeleniumUtility();
+		WebDriver driver = sel.openBrowser(System.getProperty("browser"));
 		driver.manage().window().maximize();
 		driver.get("https://www.icc-cricket.com/homepage");
 		
